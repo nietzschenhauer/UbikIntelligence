@@ -1,10 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Erste Hilfe für Gastronomie Betriebe
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+Ich biete ein Rettungspaket, um ihr Geschäft, sei es Restaurant, Kantine oder Imbiss, wirtschaftlich wieder in die Gewinnzone zu navigieren.   
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia)
+Was dazu nötig ist, erfahre ich, indem ich aktiv in ihrem Betrieb mitarbeite. Alle möglichen Problemfelder werden so identifiziert und angepackt: Personal, Einkauf, Küche, Preisgestaltung, Werbung, Kundenzufriedenheit, Atmo, Finanzierung, Zeitplanung, Kooperationen.  Schon mit wenigen Verbesserungen an den richtigen Stellschrauben, vespreche ich fundamentale Verbesserungen
