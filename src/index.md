@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Erste Hilfe für Gastronomie Betriebe
+title: Erste Hilfe für ihren gastronomischen Betrieb.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
